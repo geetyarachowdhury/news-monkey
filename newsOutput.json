@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Cop and violinist uses music to bring people together",
+            "description": "Classical musician Alexander Strachan uses music to connect with others, including with his mother, who had Alzheimer's, and with the community where he also serves as a cop. Jan Crawford reports from Maryland.",
+            "url": "https://www.cbsnews.com/video/cop-and-violinist-uses-music-to-bring-people-together/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/10/20/11a92b13-1f6d-4492-b4a8-0457d32535fc/thumbnail/1200x630/b7ea66eaa637217c371ffab225e1ba1f/1020-en-violin-819535-640x360.jpg",
+            "publishedAt": "2021-10-21T03:49:56+00:00",
+            "content": "Watch CBSN Live\r\nCopyright © 2021 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "CBS Evening News, October 20, 2021",
+            "description": "Apparent human remains found during search for Brian Laundrie, FBI says; Cop and violinist uses music to bring people together",
+            "url": "https://www.cbsnews.com/video/102021-cbs-evening-news/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/10/21/863af23d-e650-4285-a67b-d0026cc3deea/thumbnail/1200x630/7a406adc740dec3a08f8b0244e77c99f/1020-en-full-819708-640x360.jpg",
+            "publishedAt": "2021-10-21T03:05:34+00:00",
+            "content": "Watch CBSN Live\r\nCopyright © 2021 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "ansa",
+                "name": "ANSA.it"
+            },
+            "author": "ANSA.it",
+            "title": "Arriva 'Casanova', l'opera pop di Red Canzian - Ultima Ora",
+            "description": "\"L'unica cosa buona che ha fatto il Covid è stata tenermi a casa a lavorare\" scherza Red Canzian,\r\npresentando il frutto del suo lockdown: l'opera pop 'Casanova' - 35 brani inediti per 2 ore di\r\nmusica, 21 performer scelti tra 1700 candidati, doppio album co.…",
+            "url": "http://www.ansa.it/sito/notizie/topnews/2021/10/20/arriva-casanova-lopera-pop-di-red-canzian_e97628f7-7935-4eba-9832-21256ef7e675.html",
+            "urlToImage": "https://www.ansa.it/webimages/img_700/2021/10/20/e3dac03808ce48659435a286dca9fd50.jpg",
+            "publishedAt": "2021-10-20T15:34:00Z",
+            "content": "(ANSA) - MILANO, 20 OTT - \"L'unica cosa buona che ha fatto il\r\nCovid è stata tenermi a casa a lavorare\" scherza Red Canzian,\r\npresentando il frutto del suo lockdown: l'opera pop 'Casanova' -\r\n35 bran… [+1128 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Simon Lesage",
+            "title": "Vidéo. Pourquoi les musiques de James Bond se ressemblent-elles autant ?",
+            "description": "Vidéo - « Mourir peut attendre » arrive sur les écrans mercredi. De nombreux thèmes d’introduction des films James Bond portent en eux un motif musical vieux de près de soixante ans, qui fait office de ligne conductrice.",
+            "url": "https://www.lemonde.fr/culture/video/2021/10/03/pourquoi-les-musiques-de-james-bond-se-ressemblent-autant_6096948_3246.html",
+            "urlToImage": "https://img.lemde.fr/2020/09/08/0/0/1920/960/1440/720/60/0/6c16a32_548048022-vignettenue.png",
+            "publishedAt": "2021-10-03T11:30:13Z",
+            "content": "Les thèmes musicaux de James Bond ont un secret vieux de presque soixante ans. Tout le monde saccorde sur le fait quils se ressemblent, mais il est plus difficile didentifier pourquoi.\r\nLa ressemblan… [+558 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "19 Delightful Gifts for Audiophiles and Music Lovers (2021)",
+            "description": "From headphones and speakers to accessories for their vinyl LPs, these gift ideas will appeal to any audio lover.",
+            "url": "https://www.wired.com/gallery/gifts-for-music-lovers-audiophiles/",
+            "urlToImage": "https://media.wired.com/photos/611fdc9f7ea2ee7b6da6dcd9/191:100/w_2580,c_limit/Gear-Monoprice-Monolith-M570.jpg",
+            "publishedAt": "2017-12-09T15:00:00Z",
+            "content": "Whether you're trying to find a turntable so Mom and Dad can bust out their vintage vinyl collection, or you want to give the gift of great sound to a young music lover or middle-aged audiophile, it … [+931 chars]"
+        }
+    ]
+}
